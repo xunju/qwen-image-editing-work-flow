@@ -38,3 +38,6 @@ conda activate /opt/local_env/editor
 python edit_pipeline.py --modes table_yellow
 ```
 注意:再次测试记得将上次的edit文件夹删除
+
+### 网址
+[访问Hugging Face](https://huggingface.co/xunjun123/qwen-image-editing-work-flow)
