@@ -39,5 +39,15 @@ python edit_pipeline.py --modes table_yellow
 ```
 注意:再次测试记得将上次的edit文件夹删除
 
+### autodl环境
+Miniconda    conda3  
+Python       3.8(ubuntu20.04)  
+CUDA         11.8  
+GPU          H800(80GB) * 1  
+CPU  
+20 vCPU Intel(R) Xeon(R) Platinum 8458P  
+内存  
+100GB  
+
 ### 网址
 [访问Hugging Face](https://huggingface.co/xunjun123/qwen-image-editing-work-flow)
