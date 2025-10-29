@@ -49,5 +49,5 @@ CPU
 内存  
 100GB  
 
-### 网址
+### 模型代码网址
 [访问Hugging Face](https://huggingface.co/xunjun123/qwen-image-editing-work-flow)
